@@ -11,7 +11,14 @@ After a first "pilot" meetup in December 2022 the goal was to support the re-ini
 
 ## Upcoming and previous meetups
 
-- 25th January 2023: YSMS#1 - YourStackMyStack - 1. Edition
+- 26th January 2023: YSMS#1 - YourStackMyStack - 1. Edition
+  
   More Infos to come.
+  
+  Attendees: tbd
+  Location: tbd
 
 - 17th November 2022: Pilot meeting, discussing next steps
+
+  Attendees: ch12r, AH
+  Location: Schönbuch Brauereigaststätte, Stuttgart
